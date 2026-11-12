@@ -1,0 +1,25 @@
+Features
+Add daily workout records
+View workout history
+Search workouts by exercise name
+Filter workouts by date
+Update workout records
+Delete workout records
+Calculate total workout duration
+Track estimated calories burned
+Display fitness statistics
+
+Project Structure
+Personal_Fitness_Tracker/
+│
+├── main.py
+├── fitness_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── workouts.json
